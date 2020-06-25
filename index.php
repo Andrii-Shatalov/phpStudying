@@ -8,7 +8,10 @@
 <body>
 
 <header>
+
 	<nav>
+	<a href="lesson1.php">урок 1</a>
+	<a href="lesson2.php">урок 2</a>
 	</nav>
 </header>
 
@@ -22,5 +25,3 @@
 	
 </body>
 </html>
-<?php
-echo 'Hello, NIX Education';
